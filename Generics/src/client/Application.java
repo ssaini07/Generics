@@ -28,6 +28,9 @@ public class Application {
         while(itr.hasNext()) {
         	String var = itr.next();
         	System.out.println(var);
+        	System.out.println("Hello there!......");
+        	System.out.println("Hello there!......");
+        	System.out.println("Hello there!......");
         }
  
 	}
@@ -39,5 +42,4 @@ public class Application {
 		result.addAll(set2);
 		return result;
 	}
-
 }
